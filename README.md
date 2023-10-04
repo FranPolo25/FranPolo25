@@ -1,9 +1,11 @@
-### Hi I’m Paco 👋
+# Hi I’m Paco 👋
+
+![Gray Modern Webinar Business Conference Reddit Banner(1)](https://github.com/FranPolo25/FranPolo25/assets/134642015/487d6bb4-2ee5-4d01-8850-7463d625e3e7)
 
 - 🔭 I’m currently working on Ericsson as Integration Engineer
 - 🌱 I’m currently learning Data Scientist and Data Analyst roles 
 - 👯 I’m looking to collaborate on Data Fields 
-- 📫 How to reach me: franpoloch@outlook.com
+- 📫 How to reach me by e-mail: franpoloch@outlook.com
 - ⚡ Fun fact: I am very good at sports and I love math
 - 📫 My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscopolochavez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franciscopolochavez)
 
@@ -11,7 +13,7 @@ I have been a telecommunications and electronics engineer for more than 3 years.
 
 One of my greatest achievements as a professional in Ericsson is having been selected to configure/integrate the telephone and Wi-Fi network at JFK airport.
 
-The world of data caught my attention, specifically the roles such as data analyst or data scientis, so I decided to complete a diploma in data science and AI (https://www.credential.net/e10d2b06-b740-4162-9489-1e65930701b6) to apply on those roles. 
+The world of data caught my attention, specifically the roles such as data analyst or data scientis, so I decided to complete a [diploma in Data Science and AI](https://www.credential.net/e10d2b06-b740-4162-9489-1e65930701b6) to apply on those roles. 
 
 ## Technologies:
 
