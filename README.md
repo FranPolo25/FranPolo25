@@ -26,14 +26,14 @@ The world of data caught my attention, specifically the roles such as data analy
     - Data Analyst: Get Data, Data Preparation, Data Modeling, Data Visuallization, Data Reporting.
     - Data Scientist: NumPy, ScikitLearn, NLTK, Matplotlib, Seaborn, Pandas, RegEx, NetworkX, Machine Learning. 
  
-
 ## Tools:
-- Power BI
-- Excel
-- Apache Spark
-- JupyterNotebook
-- Google Colab
-- GitHub
+- Power BI.
+- Excel.
+- Apache Spark.
+- JupyterNotebook.
+- Google Colab.
+- GitHub.
+- SQL Server Management Studio.
 
 ## Languages:
 - Spanish (Native).
@@ -41,8 +41,4 @@ The world of data caught my attention, specifically the roles such as data analy
 - French (Intermediate).
 - German (Basic).
 
-|Any (Power Query data type)|<a href="PNG/Power-Query-Any.png"><img src="PNG/Power-Query-Any.png" height="25"/></a>|<a href="SVG/Power-Query-Any.svg"><img src="SVG/Power-Query-Any.svg" height="25"/></a>|
-|App|<a href="PNG/App.png"><img src="PNG/App.png" height="25"/></a>|<a href="SVG/App.svg"><img src="SVG/App.svg" height="25"/></a>|
-|Binary (Power Query data type)|<a href="PNG/Power-Query-Binary.png"><img src="PNG/Power-Query-Binary.png" height="25"/></a>|<a href="SVG/Power-Query-Binary.svg"><img src="SVG/Power-Query-Binary.svg" height="25"/></a>|
 
-|Power BI|<a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a>|<a href="SVG/Power-BI.svg"><img src="SVG/Power-BI.svg" height="25"/></a>|
