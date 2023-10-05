@@ -16,7 +16,7 @@ I started working with Ericsson in november 2020 as an integration engineer (in 
 
 One of my greatest achievements as a professional in Ericsson is having been selected to configure/integrate the telephone and Wi-Fi network at JFK airport. Also I have been recognized many times by stakeholders, co-workers and my boss for the quality of the deliverables.
 
-The world of data caught my attention recently, specifically the roles such as data analyst or data scientis, so I am looking to apply on those roles. 
+The world of data caught my attention recently, specifically the roles such as data analyst or data scientist, so I am looking to apply on those roles. 
 
 ## 💻 Programming Languages:
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
