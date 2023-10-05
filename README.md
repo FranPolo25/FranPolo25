@@ -16,7 +16,7 @@ I started working with Ericsson in november 2020 as an integration engineer (in 
 
 One of my greatest achievements as a professional in Ericsson is having been selected to configure/integrate the telephone and Wi-Fi network at JFK airport. Also I have been recognized many times by stakeholders, co-workers and my boss for the quality of the deliverables.
 
-Let me share a little presentation of who Francisco Polo is during my journey with Ericsson ▶️ [Francisco Polo.pptx](https://github.com/FranPolo25/FranPolo25/files/12825544/Francisco.Polo.pptx).
+Let me share a little presentation of who Francisco Polo and the impact I have made during my journey with Ericsson ▶️ [Francisco Polo.pptx](https://github.com/FranPolo25/FranPolo25/files/12825544/Francisco.Polo.pptx).
 
 The world of data caught my attention recently, specifically the roles such as data analyst or data scientist, so I am looking to apply on those roles. 
 
