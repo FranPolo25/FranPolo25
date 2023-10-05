@@ -48,6 +48,9 @@ The world of data caught my attention recently, specifically the roles such as d
 - French (Intermediate - DELF B1).
 - German (Basic - ÖSD A1).
 
+## 🥇 Repositories 
+> ➡️ [Repositories](https://github.com/FranPolo25?tab=repositories) ⬅️ Feel free to check all my personal projects/repositories I have work on, they are made for a data role where I used different tools and skills to complete them.
+
 ## 🥇 Certifications:
 > ☑️ [Data Storytelling](https://www.coursera.org/account/accomplishments/certificate/497RUSCHR8HN) (2023, Coursera).
  
@@ -78,3 +81,4 @@ The world of data caught my attention recently, specifically the roles such as d
 > > ☑️ [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/2GC4R45WCAF7) (2020, Coursera).
 
 > > ☑️ [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DTB938WCX8NJ) (2020, Coursera).
+
