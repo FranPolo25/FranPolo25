@@ -18,7 +18,7 @@ One of my greatest achievements as a professional in Ericsson is having been sel
 
 The world of data caught my attention recently, specifically the roles such as data analyst or data scientis, so I am looking to apply on those roles. 
 
-## Programming Languages:
+## 💻 Programming Languages:
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     - Databases: SQL Server, MySQK.
 - <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -28,12 +28,12 @@ The world of data caught my attention recently, specifically the roles such as d
     - Data Analyst: Get Data, Data Preparation, Data Modeling, Data Visuallization, Data Reporting.
     - Data Scientist: NumPy, ScikitLearn, NLTK, Matplotlib, Seaborn, Pandas, RegEx, NetworkX, Machine Learning. 
 
-## Education
+## 📖 Education
 > 👥 [Data Science and AI Diploma](https://www.credential.net/e10d2b06-b740-4162-9489-1e65930701b6) (2023, Diploma obtained from Tecnologico de Monterrey).
 
 > 👥 [Telecommunications and Electronic Systems degree](https://certificados.tec.mx/certificate/815a837eb9c85df7876211b8a827b029) (2020, Graduation degree obtained from Tecnologico de Monterrey).
 
-## Tools:
+## 🧰 Tools:
 - Power BI.
 - Excel.
 - Apache Spark.
@@ -42,13 +42,13 @@ The world of data caught my attention recently, specifically the roles such as d
 - GitHub.
 - SQL Server Management Studio.
 
-## Languages:
+## 🗣️ Languages:
 - Spanish (Native).
 - English (Advanced - TOEFL 550).
 - French (Intermediate - DELF B1).
 - German (Basic - ÖSD A1).
 
-## Certifications:
+## 🥇 Certifications:
 > ☑️ [Data Storytelling](https://www.coursera.org/account/accomplishments/certificate/497RUSCHR8HN) (2023, Coursera).
  
 > ☑️ [Data Visualization Best Practices](https://www.coursera.org/account/accomplishments/certificate/9J3WSTPJDFZ4) (2023, Coursera).
